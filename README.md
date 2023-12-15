@@ -7,6 +7,12 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBsdjV5ZnljOWtoc3N4OHYxdDlxeGswd2xwMDc4cW1rcTV6aXdlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" min-width="160px" max-width="160px" width="160px" align="right">
 
+<p align="left">📌 Portifolio</p> 
+  <a href="https://biapolletti.github.io/to-do-list/">To-do List</a>
+  <a href="https://biapolletti.github.io/app-clima/">App Clima</a>
+
+###
+
 <p align="left">🔥 Skills</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
