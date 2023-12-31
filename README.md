@@ -6,8 +6,9 @@
 ###
 
 <p align="left">📌 Portifolio</p> 
-  - <a href="https://biapolletti.github.io/to-do-list/">To-do List</a><br>
-  - <a href="https://biapolletti.github.io/app-clima/">App Clima</a>
+  - <a href="https://github.com/biapolletti/api_gerenciador-tarefas">Gerenciador de Tarefas</a> (API REST em Java e Spring Boot)<br>
+  - <a href="https://biapolletti.github.io/to-do-list/">To-do List</a> (HTML, CSS e JavaScript)<br>
+  - <a href="https://biapolletti.github.io/app-clima/">App Clima</a> (HTML, CSS e JavaScript)
 
 ###
 
@@ -15,6 +16,12 @@
 
 <p align="left">🔥 Skills</p>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -22,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
 ###
