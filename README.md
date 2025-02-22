@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&pause=1000&color=F780DC&random=false&width=435&lines=hello+world%2C+welcome+%3AD;ol%C3%A1+mundo%2C+bem-vindo+%3AD)](https://git.io/typing-svg)
 ---
 
-<p align="left">Meu nome é Ana Beatriz (mas pode me chamar de Bia), tenho 21 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e dedicada em sempre aperfeiçoar meus conhecimentos.</p>
+<p align="left">Meu nome é Ana Beatriz (mas pode me chamar de Bia), tenho 21 anos e sou recém formada em Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e dedicada em sempre aperfeiçoar meus conhecimentos.</p>
 
 ###
 
